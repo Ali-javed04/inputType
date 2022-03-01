@@ -1,0 +1,46 @@
+.abc {
+    position: relative;
+    width: 500px;
+    
+}
+.name {
+    position: absolute;
+    position: absolute;
+    left: 12px;
+    top: -10px;
+    z-index: 999;
+    background: white;
+    font-weight: bold;
+    padding: 0px 10px;
+}
+.div {
+    margin-top: 100px;
+    justify-content: center;
+    width: 100%;
+    display: flex;
+}
+.ins {
+    width: 500px;
+    height: 46px;
+    border-radius: 11px;
+    border: 2px solid #bebaba;
+
+}
+.az {
+    width: 500px;
+    border-radius: 11px !important;
+    border: 2px solid #bebaba !important;
+}
+.pp {
+    width: 400px;
+}
+.s {
+    color: red;
+}
+.cross {
+    position: absolute;
+    right: 18px;
+    top: 14px;
+    color: gray;
+    cursor: pointer;
+}

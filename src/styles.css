@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.ngx-dropdown-button {
+    min-height: 50px !important;
+    border-radius: 11px !important;
+    border: none !important;
+    width: 90% !important;
+}
